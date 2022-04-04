@@ -9,16 +9,16 @@
 #### Top Repositories
 
 <a href="https://github.com/Rymond3/TFG_Android-Malware-Analyzer">
-  <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=rymond3&repo=TFG_Android-Malware-Analyzer&show_owner=true&theme=tokyonight" alt="Android-Malware-Analyzer" />
+  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rymond3&repo=TFG_Android-Malware-Analyzer&show_owner=true&theme=tokyonight" alt="Android-Malware-Analyzer" />
 </a>
 <a href="https://github.com/Rymond3/LilyGO_T-Wristband">
-  <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=rymond3&repo=LilyGO_T-Wristband&show_owner=true&theme=tokyonight" alt="LilyGO_T-Wristband" />
+  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rymond3&repo=LilyGO_T-Wristband&show_owner=true&theme=tokyonight" alt="LilyGO_T-Wristband" />
 </a>
 <a href="https://github.com/Rymond3/gtrends-dga">
-  <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=rymond3&repo=gtrends-dga&show_owner=true&theme=tokyonight" alt="gtrends-dga" />
+  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rymond3&repo=gtrends-dga&show_owner=true&theme=tokyonight" alt="gtrends-dga" />
 </a>
 <a href="https://github.com/Rymond3/time-based-web-steganography">
-  <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=rymond3&repo=time-based-web-steganography&show_owner=true&theme=tokyonight" alt="time-based-web-steganography" />
+  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rymond3&repo=time-based-web-steganography&show_owner=true&theme=tokyonight" alt="time-based-web-steganography" />
 </a>
 
 #### Languages and Tools

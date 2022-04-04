@@ -3,7 +3,7 @@
 <h1 align="center">Rymond3</h1>
 <br />
 
-<a href="https://github.com/Rymond3"><img align="center" width="40%" src="https://github-readme-stats.vercel.app/api?username=rymond3&show_icons=true&theme=tokyonight" alt="Rymond3's GitHub stats" /></a>
+<a href="https://github.com/Rymond3"><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=rymond3&show_icons=true&theme=tokyonight" alt="Rymond3's GitHub stats" /></a>
 <a href="https://github.com/Rymond3"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rymond3&show_icons=true&layout=compact&theme=tokyonight" alt="Rymond3's Top Langs" /></a>
 
 #### Top Repositories

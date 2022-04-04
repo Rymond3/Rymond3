@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/Rymond3"><img width="40%" src="assets/linux-header.jpg" /></a></p>
+<p align="center"><a href="https://github.com/Rymond3"><img width="100%" src="assets/linux-header.jpg" /></a></p>
 
 <h1 align="center">Rymond3</h1>
 <br />

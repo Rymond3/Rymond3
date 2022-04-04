@@ -93,6 +93,7 @@
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-000000.svg?logo=linux&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+    <a href="#"><img alt="Vim" src="https://img.shields.io/badge/Vim-19923e.svg?logo=vim&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
     <a href="#"><img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-40afed.svg?logo=wireshark&logoColor=white"></a>
 </p>

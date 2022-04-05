@@ -17,8 +17,8 @@
 
 #### Top Repositories
 
-<a href="https://github.com/Rymond3/TFG_Android-Malware-Analyzer">
-  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rymond3&repo=TFG_Android-Malware-Analyzer&show_owner=true&theme=tokyonight" alt="Android-Malware-Analyzer" />
+<a href="https://github.com/Rymond3/android-malware-analyzer">
+  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rymond3&repo=android-malware-analyzer&show_owner=true&theme=tokyonight" alt="Android-Malware-Analyzer" />
 </a>
 <a href="https://github.com/Rymond3/LilyGO_T-Wristband">
   <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rymond3&repo=LilyGO_T-Wristband&show_owner=true&theme=tokyonight" alt="LilyGO_T-Wristband" />

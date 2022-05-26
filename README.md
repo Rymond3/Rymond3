@@ -29,6 +29,9 @@
 <a href="https://github.com/Rymond3/time-based-web-steganography">
   <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rymond3&repo=time-based-web-steganography&show_owner=true&theme=tokyonight" alt="time-based-web-steganography" />
 </a>
+<a href="https://github.com/Rymond3/shopping-bot-framework">
+  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rymond3&repo=shopping-bot-framework&show_owner=true&theme=tokyonight" alt="shopping-bot-framework" />
+</a>
 <br/>
 <br/>
 

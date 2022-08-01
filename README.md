@@ -1,60 +1,60 @@
-<p align="center"><a href="https://github.com/Rymond3"><img width="100%" src="assets/linux-header.jpg" /></a></p>
+<p align="center"><a href="https://github.com/d-Raco"><img width="100%" src="assets/linux-header.jpg" /></a></p>
 
-<h1 align="center">Rymond3</h1>
+<h1 align="center">dRaco</h1>
 
 <p align="center">
-<a href="https://github.com/Rymond3?tab=repositories&sort=stargazers">
-<img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Rymond3"/></a>
-<a href="https://github.com/Rymond3?tab=followers">
-<img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Rymond3?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+<a href="https://github.com/d-Raco?tab=repositories&sort=stargazers">
+<img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/d-Raco"/></a>
+<a href="https://github.com/d-Raco?tab=followers">
+<img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/d-Raco?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 <br />
                                                                                                                   
-<a href="https://github.com/Rymond3"><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=rymond3&show_icons=true&theme=tokyonight" alt="Rymond3's GitHub stats" /></a>
-<a href="https://github.com/Rymond3"><img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rymond3&show_icons=true&layout=compact&theme=tokyonight" alt="Rymond3's Top Langs" /></a>
+<a href="https://github.com/d-Raco"><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=d-Raco&show_icons=true&theme=tokyonight" alt="dRaco's GitHub stats" /></a>
+<a href="https://github.com/d-Raco"><img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-Raco&show_icons=true&layout=compact&theme=tokyonight" alt="dRaco's Top Langs" /></a>
 <br/>
 <br/>
 
 #### Top Repositories
 
-<a href="https://github.com/Rymond3/android-malware-analyzer">
-  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rymond3&repo=android-malware-analyzer&show_owner=true&theme=tokyonight" alt="Android-Malware-Analyzer" />
+<a href="https://github.com/d-Raco/android-malware-analyzer">
+  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=d-Raco&repo=android-malware-analyzer&show_owner=true&theme=tokyonight" alt="Android-Malware-Analyzer" />
 </a>
-<a href="https://github.com/Rymond3/LilyGO_T-Wristband">
-  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rymond3&repo=LilyGO_T-Wristband&show_owner=true&theme=tokyonight" alt="LilyGO_T-Wristband" />
+<a href="https://github.com/d-Raco/LilyGO_T-Wristband">
+  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=d-Raco&repo=LilyGO_T-Wristband&show_owner=true&theme=tokyonight" alt="LilyGO_T-Wristband" />
 </a>
-<a href="https://github.com/Rymond3/gtrends-dga">
-  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rymond3&repo=gtrends-dga&show_owner=true&theme=tokyonight" alt="gtrends-dga" />
+<a href="https://github.com/d-Raco/gtrends-dga">
+  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=d-Raco&repo=gtrends-dga&show_owner=true&theme=tokyonight" alt="gtrends-dga" />
 </a>
-<a href="https://github.com/Rymond3/time-based-web-steganography">
-  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rymond3&repo=time-based-web-steganography&show_owner=true&theme=tokyonight" alt="time-based-web-steganography" />
+<a href="https://github.com/d-Raco/time-based-web-steganography">
+  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=d-Raco&repo=time-based-web-steganography&show_owner=true&theme=tokyonight" alt="time-based-web-steganography" />
 </a>
-<a href="https://github.com/Rymond3/shopping-bot-framework">
-  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rymond3&repo=shopping-bot-framework&show_owner=true&theme=tokyonight" alt="shopping-bot-framework" />
+<a href="https://github.com/d-Raco/shopping-bot-framework">
+  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=d-Raco&repo=shopping-bot-framework&show_owner=true&theme=tokyonight" alt="shopping-bot-framework" />
 </a>
 <br/>
 <br/>
 
 <p align="left">
-  <a href="https://github.com/Rymond3?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://github.com/d-Raco?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
 ### Programming languages
 
 <p>
-    <a href="https://github.com/search?q=user%3ARymond3+language%3Aassembly"><img alt="MIPS Assembly" src="https://custom-icon-badges.herokuapp.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ARymond3+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ARymond3+language%3Ac"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ARymond3+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ARymond3+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ARymond3+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ARymond3+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ARymond3+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/search?q=user%3ARymond3+language%3Atex"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ARymond3+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ARymond3+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ARymond3+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ARymond3+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Ad-Raco+language%3Aassembly"><img alt="MIPS Assembly" src="https://custom-icon-badges.herokuapp.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Ad-Raco+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Ad-Raco+language%3Ac"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Ad-Raco+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Ad-Raco+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Ad-Raco+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Ad-Raco+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Ad-Raco+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="https://github.com/search?q=user%3Ad-Raco+language%3Atex"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Ad-Raco+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Ad-Raco+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Ad-Raco+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Ad-Raco+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 </p>
 
 ### Frameworks and libraries

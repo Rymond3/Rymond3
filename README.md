@@ -19,6 +19,18 @@
   <a href="https://github.com/d-Raco?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
+### Fields of Interest
+
+- Malware Analysis
+- Threat Intelligence
+- Reverse Engenieering
+- Forensic Analysis
+- Incident Response
+- Vulnerability Exploitation
+- Penetration Testing
+- Operating Systems Internals
+- System/Network Administration & Security
+
 ### Programming languages
 
 <p>

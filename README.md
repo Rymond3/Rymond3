@@ -15,26 +15,6 @@
 <br/>
 <br/>
 
-#### Top Repositories
-
-<a href="https://github.com/d-Raco/android-malware-analyzer">
-  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=d-Raco&repo=android-malware-analyzer&show_owner=true&theme=tokyonight" alt="Android-Malware-Analyzer" />
-</a>
-<a href="https://github.com/d-Raco/LilyGO_T-Wristband">
-  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=d-Raco&repo=LilyGO_T-Wristband&show_owner=true&theme=tokyonight" alt="LilyGO_T-Wristband" />
-</a>
-<a href="https://github.com/d-Raco/gtrends-dga">
-  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=d-Raco&repo=gtrends-dga&show_owner=true&theme=tokyonight" alt="gtrends-dga" />
-</a>
-<a href="https://github.com/d-Raco/time-based-web-steganography">
-  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=d-Raco&repo=time-based-web-steganography&show_owner=true&theme=tokyonight" alt="time-based-web-steganography" />
-</a>
-<a href="https://github.com/d-Raco/shopping-bot-framework">
-  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=d-Raco&repo=shopping-bot-framework&show_owner=true&theme=tokyonight" alt="shopping-bot-framework" />
-</a>
-<br/>
-<br/>
-
 <p align="left">
   <a href="https://github.com/d-Raco?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
